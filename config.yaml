@@ -1,0 +1,23 @@
+model: UNet
+encoder: resnet34
+
+image_size: 256
+
+batch_size: 2
+epochs: 5
+
+learning_rate: 0.001
+
+optimizer: Adam
+
+loss_function: BCEWithLogitsLoss
+
+device: CPU
+
+input_channels: 4
+
+classes: 1
+
+augmentation: None
+
+random_seed: 42

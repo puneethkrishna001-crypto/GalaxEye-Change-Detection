@@ -1,0 +1,23 @@
+GalaxEye Technical Assignment - Time & Resource Log
+
+Name: S M Puneeth Krishna
+
+Development Environment:
+- VS Code
+- Python 3.11
+- PyTorch
+- CPU Training
+
+Approximate Time Spent:
+- Environment setup: 3 hours
+- Dataset preprocessing & debugging: 5 hours
+- Model implementation: 3 hours
+- Training & evaluation: 4 hours
+- Documentation & report preparation: 2 hours
+
+Total Approximate Time:
+17 hours
+
+System Resources:
+- CPU based training
+- RAM usage approximately 6-8 GB
